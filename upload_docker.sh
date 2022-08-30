@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath='sagencoders/udacity-project4'
+dockerpath='nekerobert/udacity-project4'
 
 # Step 2:  
 # Authenticate & tag
